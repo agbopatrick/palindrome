@@ -1,0 +1,37 @@
+*{
+  margin: 0%;
+}
+.container{
+  justify-content: center;
+  align-items: center;
+  width: 350px;
+  height: 200px;
+  padding: 50px 70px;
+  margin: 50px;
+  border: 5px solid grey;
+  border-radius: 50px;
+  box-shadow: 0px 5px 10px 0px blueviolet;
+  background-color: rosybrown;
+}
+#check-btn{
+  border-radius: 15px;
+  background-color: burlywood;
+  margin-left: 10px;
+}
+#result {
+  content: '\a';
+  color: darkblue;
+  font-family: fantasy;
+  margin-top: 10px;
+}
+#text-area{
+  font-family: serif;
+  margin-top: 15px;
+  background-color: cadetblue;
+  color: cornsilk;
+  border-radius: 10px;
+}
+h3{
+  position: sticky;
+  margin-bottom: 20px;
+}
